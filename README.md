@@ -46,4 +46,8 @@ $ npm run test:cov
 ```
 ## License
 
+  Ibrahima DANSOKO
+  
+## License
+
   [MIT licensed](LICENSE).
