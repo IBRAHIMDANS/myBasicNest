@@ -1,7 +1,16 @@
-# compiled output
-/dist
-/node_modules
 
+# compiled output
+.idea/
+.vscode/
+dist
+node_modules/
+build/
+tmp/
+temp/
+.idea
+.DS_Store
+/node_modules
+.data
 # Logs
 logs
 *.log
