@@ -15,8 +15,8 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
-    it('should return "Hello World!"', () => {
-      expect(appController.getHello()).toBe({
+    it('should return "Hello api!"', () => {
+      expect(appController.getHello()).toStrictEqual({
         text: 'Hello World!',
         author: 'Ibrahima DANSOKO',
         version: '1.0.0',
