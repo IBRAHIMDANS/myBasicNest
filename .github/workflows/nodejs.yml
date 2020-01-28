@@ -22,6 +22,6 @@ jobs:
           CI: true
       - name: start build
         run: |
-          yarn build --if-present
+          yarn build
         env:
           CI: true
